@@ -1,0 +1,15 @@
+{
+  "name": "superjs-sanitize",
+  "author": {
+    "name": "Aaron Storck",
+    "email": "aaronstorck@gmail.com"
+  },
+  "version": "0.2.0",
+  "description": "SuperJS Sanitize - Sanitization library with promised-based execution.",
+  "main": "index.js",
+  "repository": "https://github.com/asleepinglion/superjs-sanitize",
+  "dependencies": {
+    "bluebird": "^2.8.1"    
+  },
+  "license": "MIT"
+}
