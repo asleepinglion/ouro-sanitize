@@ -58,7 +58,17 @@ module.exports = SuperJS.Class.extend({
     return Promise.all(sanitizations);
   },
 
-  toLower: function(val) {
+
+
+
+
+
+
+  toUpperCase: function (val) {
+    return val === val.toUpperCase() ;
+  },
+
+  toLowerCase: function(val) {
     return val.toLowerCase();
   }
 
