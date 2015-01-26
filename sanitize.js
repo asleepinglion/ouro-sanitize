@@ -16,6 +16,8 @@ var Promise = require('bluebird');
 
 module.exports = SuperJS.Class.extend({
 
+
+
   //setup sanitizations for the given property by creating an array of closures
   //which contain promises to sanitize
   setup: function(sanitizations, context, propertyName) {
@@ -59,17 +61,12 @@ module.exports = SuperJS.Class.extend({
   },
 
 
-
-
-
-
-
-  toUpperCase: function (val) {
-    return val === val.toUpperCase() ;
+  lowercase: function(val) {
+    return val.toLowerCase();
   },
 
-  toLowerCase: function(val) {
-    return val.toLowerCase();
+  uppercase: function (val) {
+    return val === val.toUpperCase() ;
   }
 
 });
