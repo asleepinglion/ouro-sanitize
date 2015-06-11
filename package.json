@@ -4,13 +4,14 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.2.1",
+  "version": "0.8.0",
   "description": "SuperJS Sanitize - Sanitization library with promised-based execution.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-sanitize",
   "dependencies": {
     "bluebird": "^2.8.1",
-    "superjs": "*"
+    "superjs": "*",
+    "superjs-base": "*"
   },
   "license": "MIT"
 }

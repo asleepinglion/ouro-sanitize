@@ -19,4 +19,4 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 SuperJS Sanitize - Sanitization Library with Promised-based Execution.
  */
 
-module.exports = require('./sanitize');
+module.exports = require('./lib/sanitize/class');
