@@ -16,7 +16,7 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
                        SP                  SP
                        Y                   Y
 
-SuperJS Sanitize - Sanitization Library with Promised-based Execution.
+Ouro Sanitize - Sanitization Library with Promised-based Execution.
  */
 
 module.exports.Sanitize = require('./lib/sanitize/class');

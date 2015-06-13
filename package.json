@@ -1,17 +1,17 @@
 {
-  "name": "superjs-sanitize",
+  "name": "ouro-sanitize",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.1",
-  "description": "SuperJS Sanitize - Sanitization library with promised-based execution.",
+  "version": "0.9.0",
+  "description": "Ouro Sanitize - Sanitization library with promised-based execution.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-sanitize",
+  "repository": "https://github.com/asleepinglion/ouro-sanitize",
   "dependencies": {
     "bluebird": "^2.8.1",
-    "superjs": "*",
-    "superjs-base": "*"
+    "ouro": "*",
+    "ouro-base": "*"
   },
   "license": "MIT"
 }

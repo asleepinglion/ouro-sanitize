@@ -1,3 +1,3 @@
-#SuperJS Sanitize
+#Ouro Sanitize
 
-> **Disclaimer:** SuperJS is under heavy development at the moment, and breaking changes are likely. 
+> **Disclaimer:** Ouro is under heavy development at the moment, and breaking changes are likely. 
